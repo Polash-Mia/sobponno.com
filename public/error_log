@@ -1,0 +1,1 @@
+[30-May-2023 20:05:26 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\CheckoutController::$order in /home/sobponno/test/app/Http/Controllers/CheckoutController.php on line 17
